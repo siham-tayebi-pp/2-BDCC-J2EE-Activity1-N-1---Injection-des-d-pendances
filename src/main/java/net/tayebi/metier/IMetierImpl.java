@@ -8,7 +8,7 @@ public class IMetierImpl implements IMetier {
     public double cacul() {
         double t=dao.getData();
         double res = t * 12 * Math.PI/2 * Math.cos(t);
-        return 0;
+        return res;
     }
     //    pour injecter dans l'attribut dao un objet de type idao
 //     cad un obj dune interface qui implemente lobj dao

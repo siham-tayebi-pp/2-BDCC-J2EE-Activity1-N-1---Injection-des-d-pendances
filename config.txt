@@ -1,0 +1,2 @@
+net.tayebi.ext.DaoImplV2
+net.tayebi.metier.IMetierImpl
