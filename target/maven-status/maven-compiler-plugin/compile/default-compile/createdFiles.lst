@@ -1,0 +1,7 @@
+net\tayebi\presentation\Pres2.class
+net\tayebi\metier\IMetier.class
+net\tayebi\metier\IMetierImpl.class
+net\tayebi\dao\IDao.class
+net\tayebi\ext\DaoImplV2.class
+net\tayebi\presentation\Pres1.class
+net\tayebi\dao\DaoImpl.class
